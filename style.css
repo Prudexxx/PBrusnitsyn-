@@ -159,3 +159,7 @@ img{
     display: flex;
   }
 
+textarea{
+  font-size: 20px;
+  color: #000;
+}
